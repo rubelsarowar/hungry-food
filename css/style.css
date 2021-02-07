@@ -9,7 +9,7 @@ body {
     cursor: pointer;
 }
 
-/* default popup-section start */
+/* popup area start */
 .navbar-brand img{
     width: 100px;
 }
@@ -19,7 +19,8 @@ body {
 .bg-custom {
     background: linear-gradient(to right, #108dc7,#ef8e38);
 }
-/* default popup-section end */
+/* popup area end */
+/* input area start */
 .btn-info {
     color: #000;
     background-color: #ef8e38;
@@ -33,3 +34,4 @@ body {
 .input-group {
     margin-top: 100px;
 }
+/* input area ends */
